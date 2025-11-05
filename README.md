@@ -1,5 +1,5 @@
 # Horus
-Repositório com o código escrito para meu TCC do técnico em mecatrônica, realizado em 2023.\\
+Repositório com o código escrito para meu TCC do técnico em mecatrônica, realizado em 2023.\
 Feito com Arduino IDE. \
 Code_Cam: ESP32 AI-THINKER (com câmera, 16 pinos) \
 Code_Esp: ESP32 CH340 (sem câmera, 36 pinos) \
